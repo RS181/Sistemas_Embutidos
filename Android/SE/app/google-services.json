@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "231553790344",
+    "project_id": "video-app-message",
+    "storage_bucket": "video-app-message.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231553790344:android:90818c401e6b9d93790a3d",
+        "android_client_info": {
+          "package_name": "com.example.videocamera"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDE9ZKh9ksjBejpHq3C4X97IuUHgTHpqj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
