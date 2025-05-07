@@ -100,7 +100,7 @@ Project carried out in the Embedded Systems course
 
 
 ### To install necessary python modules 
-The other modules typacly come with python by default.
+The other modules typically come with python by default.
 
 ```bash
 pip install -r python-requirements.txt
