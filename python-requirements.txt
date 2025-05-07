@@ -1,0 +1,4 @@
+flask
+aiortc
+opencv-python
+firebase-admin
